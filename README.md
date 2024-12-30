@@ -19,7 +19,7 @@ I'm a 3rd-year Software Engineering student at the **University of Westminster (
 - **Backend Development:**  
   - ASP.NET Core, REST APIs, Entity Framework  
 - **Tools & Platforms:**  
-  - Git, GitHub, Visual Studio, VS Code, Postman  
+  - Git, GitHub, Visual Studio, VS Code, Postman, IntelliJ IDEA, PYCharm  
 
 ---
 
