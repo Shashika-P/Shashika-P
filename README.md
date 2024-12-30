@@ -40,8 +40,8 @@ I’m on a lifelong mission to **get better than who I was yesterday, last week,
 ## 🌐 Connect with Me  
 
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/shashika-sellapperuma-b86335288/)]
-- **GitHub:**[[GitHub Profile]](https://github.com/Shashika-P)
-- **Email:**[[shashikasellapperuma@gmail.com]]
+- **GitHub:** [[GitHub Profile]](https://github.com/Shashika-P)
+- **Email:** [[shashikasellapperuma@gmail.com]]
 
 Feel free to explore my projects, reach out for collaboration, or just say hello! 🚀  
 
